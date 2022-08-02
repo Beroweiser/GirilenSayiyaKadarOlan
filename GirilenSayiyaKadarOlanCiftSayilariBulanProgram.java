@@ -1,9 +1,9 @@
 /**
- * 0'dan girilen sayıya kadar olan sayılardan\n3 ve 4'e tam bölünen sayıların ortalaması
+ * GirilenSayiyaKadarOlanCiftSayilariBulanProgram
  */
 import java.util.Scanner;
 
-public class GirilenSayiyaKadarOlan {
+public class GirilenSayiyaKadarOlanCiftSayilariBulanProgram {
 
     public static void main(String[] args) {
         int k,a = 0,b = 0, c = 1;
@@ -22,7 +22,7 @@ public class GirilenSayiyaKadarOlan {
 
         }
         c = b / a;
-        System.out.println("Sayıların ortalaması : "+ c);
+        System.out.println("3 ve 4'e tam bölünen sayıların ortalaması : "+ c);
 
 
     }
