@@ -1,0 +1,2 @@
+# GirilenSayiyaKadarOlanCiftSayilariBulanProgram
+proje
